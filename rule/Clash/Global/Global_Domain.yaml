@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-17 02:11:14
+# UPDATED: 2025-02-24 02:11:18
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30893
+# DOMAIN-SUFFIX: 30911
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31130
+# TOTAL: 31148
 payload:
   - 'adobeereg.com'
   - 'angle.com.tw'
@@ -5286,6 +5286,7 @@ payload:
   - '+.cindymovies.com'
   - '+.cinemax.com'
   - '+.cinepornogratis.com'
+  - '+.cinny.in'
   - '+.cios.org'
   - '+.ciota.ac.uk'
   - '+.cirencester.ac.uk'
@@ -6892,6 +6893,7 @@ payload:
   - '+.drweb.com'
   - '+.drweb.fr'
   - '+.drweb.kz'
+  - '+.drweb.ru'
   - '+.drweb.uz'
   - '+.dscis.ac.uk'
   - '+.dses.ac.uk'
@@ -8687,6 +8689,7 @@ payload:
   - '+.flowfront.com'
   - '+.flowfront.net'
   - '+.flowtype.org'
+  - '+.fluffychat.im'
   - '+.fluidfxapp.com'
   - '+.fluidpreview.com'
   - '+.fluids.ac.uk'
@@ -10548,6 +10551,7 @@ payload:
   - '+.hentaivn.de'
   - '+.hentaivn.la'
   - '+.hentaivn.net'
+  - '+.hentaivox.com'
   - '+.hentaivvz.com'
   - '+.hentaiworld.eu'
   - '+.hentaiworld.tv'
@@ -15245,7 +15249,12 @@ payload:
   - '+.mwell.ac.uk'
   - '+.mwhentai.net'
   - '+.mwrc.ac.uk'
+  - '+.mxlogin.com'
   - '+.mxmcdn.net'
+  - '+.mxroute.com'
+  - '+.mxroutedocs.com'
+  - '+.mxroutehelp.com'
+  - '+.mxrouting.net'
   - '+.mxshm.site'
   - '+.my-enema.com'
   - '+.my-kualalumpur-1.myhuaweicloud.com'
@@ -15856,6 +15865,8 @@ payload:
   - '+.nexitally.com'
   - '+.nexitallysafe.com'
   - '+.nexitcore.com'
+  - '+.nexo.com'
+  - '+.nexo.io'
   - '+.nexon.co.jp'
   - '+.nexon.io'
   - '+.nexoncdn.co.kr'
@@ -17508,7 +17519,9 @@ payload:
   - '+.pixfs.net'
   - '+.pixhost.to'
   - '+.pixinsight.com.tw'
+  - '+.pixiv-recommend.net'
   - '+.pixiv.co.jp'
+  - '+.pixiv.help'
   - '+.pixiv.me'
   - '+.pixiv.org'
   - '+.pixlr-o-matic.com'
@@ -25052,6 +25065,7 @@ payload:
   - '+.5i01.com'
   - '+.5isotoi5.org'
   - '+.5maodang.com'
+  - '+.611study.icu'
   - '+.63i.com'
   - '+.64museum.org'
   - '+.64tianwang.com'
@@ -26007,6 +26021,7 @@ payload:
   - '+.codeplex.com'
   - '+.codeshare.io'
   - '+.codeskulptor.org'
+  - '+.cofacts.tw'
   - '+.coin2co.in'
   - '+.coinbase.com'
   - '+.coinbene.com'
@@ -27080,6 +27095,7 @@ payload:
   - '+.greenvpn.net'
   - '+.greenvpn.org'
   - '+.grindr.com'
+  - '+.grok.com'
   - '+.grotty-monday.com'
   - '+.ground.news'
   - '+.gs-discuss.com'
@@ -28448,6 +28464,7 @@ payload:
   - '+.newlandmagazine.com.au'
   - '+.newmitbbs.com'
   - '+.newnews.ca'
+  - '+.news1.kr'
   - '+.news100.com.tw'
   - '+.newsancai.com'
   - '+.newsblur.com'
@@ -28843,6 +28860,7 @@ payload:
   - '+.picjs.xyz'
   - '+.picturedip.com'
   - '+.picturesocial.com'
+  - '+.picuki.com'
   - '+.pigav.com'
   - '+.pimg.tw'
   - '+.pin-cong.com'

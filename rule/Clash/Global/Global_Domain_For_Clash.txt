@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-17 02:11:14
+# UPDATED: 2025-02-24 02:11:18
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30893
+# DOMAIN-SUFFIX: 30911
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31130
+# TOTAL: 31148
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -5285,6 +5285,7 @@ self.events.data.microsoft.com
 +.cindymovies.com
 +.cinemax.com
 +.cinepornogratis.com
++.cinny.in
 +.cios.org
 +.ciota.ac.uk
 +.cirencester.ac.uk
@@ -6891,6 +6892,7 @@ self.events.data.microsoft.com
 +.drweb.com
 +.drweb.fr
 +.drweb.kz
++.drweb.ru
 +.drweb.uz
 +.dscis.ac.uk
 +.dses.ac.uk
@@ -8686,6 +8688,7 @@ self.events.data.microsoft.com
 +.flowfront.com
 +.flowfront.net
 +.flowtype.org
++.fluffychat.im
 +.fluidfxapp.com
 +.fluidpreview.com
 +.fluids.ac.uk
@@ -10547,6 +10550,7 @@ self.events.data.microsoft.com
 +.hentaivn.de
 +.hentaivn.la
 +.hentaivn.net
++.hentaivox.com
 +.hentaivvz.com
 +.hentaiworld.eu
 +.hentaiworld.tv
@@ -15244,7 +15248,12 @@ self.events.data.microsoft.com
 +.mwell.ac.uk
 +.mwhentai.net
 +.mwrc.ac.uk
++.mxlogin.com
 +.mxmcdn.net
++.mxroute.com
++.mxroutedocs.com
++.mxroutehelp.com
++.mxrouting.net
 +.mxshm.site
 +.my-enema.com
 +.my-kualalumpur-1.myhuaweicloud.com
@@ -15855,6 +15864,8 @@ self.events.data.microsoft.com
 +.nexitally.com
 +.nexitallysafe.com
 +.nexitcore.com
++.nexo.com
++.nexo.io
 +.nexon.co.jp
 +.nexon.io
 +.nexoncdn.co.kr
@@ -17507,7 +17518,9 @@ self.events.data.microsoft.com
 +.pixfs.net
 +.pixhost.to
 +.pixinsight.com.tw
++.pixiv-recommend.net
 +.pixiv.co.jp
++.pixiv.help
 +.pixiv.me
 +.pixiv.org
 +.pixlr-o-matic.com
@@ -25051,6 +25064,7 @@ self.events.data.microsoft.com
 +.5i01.com
 +.5isotoi5.org
 +.5maodang.com
++.611study.icu
 +.63i.com
 +.64museum.org
 +.64tianwang.com
@@ -26006,6 +26020,7 @@ self.events.data.microsoft.com
 +.codeplex.com
 +.codeshare.io
 +.codeskulptor.org
++.cofacts.tw
 +.coin2co.in
 +.coinbase.com
 +.coinbene.com
@@ -27079,6 +27094,7 @@ self.events.data.microsoft.com
 +.greenvpn.net
 +.greenvpn.org
 +.grindr.com
++.grok.com
 +.grotty-monday.com
 +.ground.news
 +.gs-discuss.com
@@ -28447,6 +28463,7 @@ self.events.data.microsoft.com
 +.newlandmagazine.com.au
 +.newmitbbs.com
 +.newnews.ca
++.news1.kr
 +.news100.com.tw
 +.newsancai.com
 +.newsblur.com
@@ -28842,6 +28859,7 @@ self.events.data.microsoft.com
 +.picjs.xyz
 +.picturedip.com
 +.picturesocial.com
++.picuki.com
 +.pigav.com
 +.pimg.tw
 +.pin-cong.com
